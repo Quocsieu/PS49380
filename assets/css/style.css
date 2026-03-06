@@ -115,7 +115,7 @@ li {
   width: 100%;
   overflow: hidden;
   z-index: 1;
-  background-image: url("assets/images/hero-bg.jpg");
+  background-image: url("../images/hero-bg.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -784,4 +784,5 @@ nav .nav-list__item .nav-list__link {
     gap: 2rem;
   }
 }
+
 
